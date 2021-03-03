@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atwp-react-portfolio-deploy/static/css/main.7d1bfc71.chunk.css",
+    "main.js": "/atwp-react-portfolio-deploy/static/js/main.856162b5.chunk.js",
+    "main.js.map": "/atwp-react-portfolio-deploy/static/js/main.856162b5.chunk.js.map",
+    "runtime-main.js": "/atwp-react-portfolio-deploy/static/js/runtime-main.5d214a11.js",
+    "runtime-main.js.map": "/atwp-react-portfolio-deploy/static/js/runtime-main.5d214a11.js.map",
+    "static/js/2.3cabde77.chunk.js": "/atwp-react-portfolio-deploy/static/js/2.3cabde77.chunk.js",
+    "static/js/2.3cabde77.chunk.js.map": "/atwp-react-portfolio-deploy/static/js/2.3cabde77.chunk.js.map",
+    "static/js/3.1b4f9170.chunk.js": "/atwp-react-portfolio-deploy/static/js/3.1b4f9170.chunk.js",
+    "static/js/3.1b4f9170.chunk.js.map": "/atwp-react-portfolio-deploy/static/js/3.1b4f9170.chunk.js.map",
+    "index.html": "/atwp-react-portfolio-deploy/index.html",
+    "static/css/main.7d1bfc71.chunk.css.map": "/atwp-react-portfolio-deploy/static/css/main.7d1bfc71.chunk.css.map",
+    "static/js/2.3cabde77.chunk.js.LICENSE.txt": "/atwp-react-portfolio-deploy/static/js/2.3cabde77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d214a11.js",
+    "static/js/2.3cabde77.chunk.js",
+    "static/css/main.7d1bfc71.chunk.css",
+    "static/js/main.856162b5.chunk.js"
+  ]
+}
